@@ -9,4 +9,3 @@ How to open and run
 
 Notes
 - The app uses a small hard-coded rate table in `MainActivity.java`. You can update `RATES_TO_USD` with live rates or extend the list of currencies.
-- Implemented using only Java (no Kotlin).
